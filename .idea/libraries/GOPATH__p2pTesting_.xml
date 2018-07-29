@@ -1,0 +1,42 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;p2pTesting&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../../gx" />
+      <root url="file://$PROJECT_DIR$/../../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../../leb.io" />
+      <root url="file://$PROJECT_DIR$/../../prototypeForDad" />
+      <root url="file://$PROJECT_DIR$/../../scopeNotes" />
+      <root url="file://$PROJECT_DIR$/../../blog_server" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../github.com" />
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../onePercent" />
+      <root url="file://$PROJECT_DIR$/../../spotify_mosaic" />
+      <root url="file://$PROJECT_DIR$/../../.idea" />
+      <root url="file://$PROJECT_DIR$/../../socketChat" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../../gx" />
+      <root url="file://$PROJECT_DIR$/../../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../../leb.io" />
+      <root url="file://$PROJECT_DIR$/../../prototypeForDad" />
+      <root url="file://$PROJECT_DIR$/../../scopeNotes" />
+      <root url="file://$PROJECT_DIR$/../../blog_server" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../github.com" />
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../onePercent" />
+      <root url="file://$PROJECT_DIR$/../../spotify_mosaic" />
+      <root url="file://$PROJECT_DIR$/../../.idea" />
+      <root url="file://$PROJECT_DIR$/../../socketChat" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
